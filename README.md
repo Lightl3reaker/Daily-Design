@@ -1,9 +1,10 @@
 # Daily-Design
 Daily Dose of CSS
+## Description
+With this repo we will cook daily css studies.
 # Goals
-Selectors and Structure:
-
-## Basic Selectors 
+## Selectors and Structure:
+Basic Selectors<br> 
 (element, class, ID, attribute)
 ## Combinators 
 (descendant, child, adjacent, general sibling)<br>
@@ -28,7 +29,7 @@ Responsive units (%, em, rem)<br>
 ## Transitions and Animations:
 Transition properties<br>
 Animation properties<br>
-##Transforms and Transitions:
+## Transforms and Transitions:
 Transform properties (rotate, scale, translate, skew)<br>
 Transition properties<br>
 ## Flexbox:
