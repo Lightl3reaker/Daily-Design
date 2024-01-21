@@ -1,5 +1,5 @@
 # Daily-Design
-Daily Dose of CSS
+Daily Dose of CSS, Mostly components
 ## Description
 With this repo we will cook daily css studies.
 # Goals
